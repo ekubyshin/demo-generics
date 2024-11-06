@@ -1,4 +1,4 @@
-module github.com/ekubyshin/generics
+module github.com/ekubyshin/demo-generics
 
 go 1.23.1
 
